@@ -68,5 +68,5 @@ flowchart TD
 
 ## Project Status
 
-The application architecture was implemented and tested. Route 53 was not implemented in this project.
+The application architecture was implemented and tested. 
 
